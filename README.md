@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="assets/Viy_Icon.jpg" alt="Viy Logo" width="110" />
+</p>
+
+# В⌜І⌟Й (Viy) — Open-Core Linguistic Manipulation & Propaganda Scanner
+
 # В⌜І⌟Й (Viy) — Open-Core Linguistic Manipulation & Propaganda Scanner
 
 **Viy** (`@viy_truth_bot`) is an asynchronous Telegram bot and closed-context linguistic analysis engine designed to detect rhetorical manipulation, logical fallacies, and emotional pressure in news publications across 4 languages: **Russian (RU), Ukrainian (UK), Polish (PL), and English (EN)**.
@@ -26,7 +32,7 @@ Unlike traditional fact-checking bots that rely on external web searches, Viy op
 3. Copy .env.example to .env and insert your TELEGRAM_TOKEN and GEMINI_API_KEY.
 4. Copy prompt.example.txt to prompt.txt (or use it directly as a fallback template).
 5. Run the bot:
-    Bash
+    ```bash
     python bot.py
     
 
