@@ -1,0 +1,18 @@
+{
+  "bot_username": "@viy_truth_bot",
+  "daily_user_limit": 15,
+  "footer_keywords": [
+    "сайт", "реклама", "помощь", "прислать", "предложить",
+    "подписаться", "наш бот", "чат", "резерв", "donate",
+    "twitter", "instagram", "youtube", "надіслати новину", "підписатися"
+  ],
+  "non_text_keywords": [
+    "tts", "audio", "image", "imagen", "vision", "embedding", "veo", "aqa", "thinking"
+  ],
+  "key_aliases": {
+    "name_calling_or_labeling": "name_calling",
+    "thought_terminating_cliches": "thought_terminating_cliche",
+    "whataboutism_straw_man_red_herring": "whataboutism_red_herring",
+    "black_and_white_fallacy": "false_dilemma"
+  }
+}

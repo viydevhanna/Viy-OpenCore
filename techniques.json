@@ -1,0 +1,100 @@
+{
+  "loaded_language": {
+    "name_ru": "Эмоционально окрашенная лексика",
+    "name_uk": "Емоційно забарвлена лексика",
+    "name_pl": "Język nacechowany emocjonalnie",
+    "name_en": "Loaded Language",
+    "description": "The use of words, epithets, verbs, and metaphors with a strong emotional (negative or positive) charge to secretly impose an attitude before analyzing the facts. Examples: 'brazenly creeping in', 'cynically deceived', 'taking out the energy sector' (cynical slang instead of destruction), accusatory verbs like 'refuses to announce evacuation' (creating a false sense of sabotage). EXCEPTION: Do not consider dry dictionary verbs describing an actual ultimatum or conflict ('demanded', 'threatens a strike', if a strike condition is actually voiced in the quote) as manipulation, nor ordinary conversational metaphors within someone else's direct speech ('corruption is poison')."
+  },
+  "name_calling": {
+    "name_ru": "Навешивание ярлыков и оскорбления",
+    "name_uk": "Навішування ярликів та образи",
+    "name_pl": "Etykietowanie i wyzwiska (Atak personalny)",
+    "name_en": "Name Calling or Labeling",
+    "description": "Direct or indirect denigration, attaching insulting, derogatory, or ideological noun labels to a person, politician, country, or group of people instead of evaluating their specific actions and arguments. Examples: 'traitors of the people', 'corrupt officials', 'dictator', 'relocant scum', 'morons', 'Banderite neo-Nazi regime'. Also includes biased contextual labels from the editorial board to discredit the speaker's motives ('stated Klitschko, who has long been in conflict with...'). All labels in one text are collected into one general point separated by commas."
+  },
+  "exaggeration_minimization": {
+    "name_ru": "Преувеличение или преуменьшение масштаба",
+    "name_uk": "Перебільшення або применшення масштабу",
+    "name_pl": "Wyolbrzymianie lub umniejszanie skali",
+    "name_en": "Exaggeration or Minimization",
+    "description": "Artificially inflating an isolated incident into a universal catastrophe (hyperbole) or, conversely, intentionally downplaying a real problem. Includes: 1) Hyperbolization ('a hunt has been declared on all Russians, anyone can be arrested'); 2) Presenting private legislative exceptions as a global 'policy shift'; 3) Transferring someone else's emotional exaggeration from a screenshot ('transport collapse') into the author's text as an already dry, accomplished fact; 4) Manipulative juggling of contradictory statistical figures without explaining the difference in calculation methodology."
+  },
+  "false_dilemma": {
+    "name_ru": "Ложная дилемма (Черно-белый выбор)",
+    "name_uk": "Хибна дилема (Чорно-білий вибір)",
+    "name_pl": "Fałszywy dylemat (Czarno-biały wybór)",
+    "name_en": "Black-and-White Fallacy / False Dilemma",
+    "description": "Presenting a complex situation as a binary choice with no alternatives ('either A or B', 'either fiction or a pretext'), excluding intermediate, compromise, or objective options. Examples: 'If we do not stop this right now — tomorrow the country faces destruction!', 'it is unclear whether there really are relays or if this is just a pretext for an ultimatum'."
+  },
+  "causal_oversimplification": {
+    "name_ru": "Упрощение причинно-следственных связей и ложная фактичность",
+    "name_uk": "Спрощення причинно-наслідкових зв'язків та хибна фактичність",
+    "name_pl": "Uproszczenie przyczynowo-skutkowe i fałszywa faktyczność",
+    "name_en": "Causal Oversimplification",
+    "description": "Logical leaps, reducing complex processes to a single invented cause, and presenting guesses as 100% facts. Includes 5 main tricks: 1) Categorical predictions about the future as an accomplished fact ('what the threats will actually lead to'); 2) 'Creeping factuality' — when a cautious assumption is introduced at the beginning of an article ('could have received $20 million', 'probable intelligence officers'), and a paragraph later or in the next sentence, it is stated as a 100% proven fact without reservations ('He will not return the money', 'detained Ukrainian security forces were searching'); 3) Placing an insider rumor or someone else's version in the headline as a hard fact ('Putin will sit at the negotiating table only after...', 'They were looking for Kravchenko in Vienna'); 4) False statistical connection in the headline (a decrease in the number of people in Poland and an increase in Germany is presented as a direct move from Poland to Germany); 5) Artificial linking of routine events to symbolic dates ('originally celebrated Defenders' Day by earning a billion in 3 weeks')."
+  },
+  "appeal_to_fear_prejudice": {
+    "name_ru": "Апелляция к страху и предрассудкам",
+    "name_uk": "Апеляція до страху та упереджень",
+    "name_pl": "Odwołanie do strachu i uprzedzeń",
+    "name_en": "Appeal to Fear or Prejudice",
+    "description": "Fueling anxiety, panic, inevitable military or social catastrophe ('tomorrow the whole country faces inevitable destruction'), or exploiting the audience's hidden social, ethnic, and political prejudices to disable critical thinking. EXCEPTION: A dry retelling of actual military threats or ultimatums by officials is not an appeal to fear."
+  },
+  "appeal_to_authority": {
+    "name_ru": "Необоснованная апелляция к авторитету",
+    "name_uk": "Необґрунтована апеляція до авторитету",
+    "name_pl": "Nieuzasadnione odwołanie do autorytetu",
+    "name_en": "Appeal to Authority",
+    "description": "Proving the truth of a thesis solely by referring to a loud status, title, or the 'opinion of experts' without substantive arguments and evidence."
+  },
+  "anonymous_sources": {
+    "name_ru": "Анонимные и непроверяемые источники",
+    "name_uk": "Анонімні та непідтверджені джерела",
+    "name_pl": "Anonimowe i nieweryfikowalne źródła",
+    "name_en": "Anonymous or Unverifiable Sources",
+    "description": "Legitimizing rumors, insider information, and accusations through links to sources that the reader cannot verify. Includes: 1) Direct anonymity ('a source in the Kremlin', 'a Ukrainian official', 'a European diplomat', 'Western media write'); 2) Double anonymity ('Ukrainian media report citing agency data'); 3) Impersonal opinion constructions ('Meanwhile, the US expects...'); 4) The illusion of an external link (when behind the words 'the media wrote' hides an internal link to another post by the same channel without primary sources). EXCEPTION (NOT MANIPULATION): Official institutional reports of departments ('the police reports', 'the Regional Military Administration reports', 'the court press secretary reported') and links to specifically named media outlets ('Dozhd TV channel', 'Der Standard publication', 'Rzeczpospolita')."
+  },
+  "doubt": {
+    "name_ru": "Искусственное сеяние сомнений",
+    "name_uk": "Штучне сіяння сумнівів",
+    "name_pl": "Sztuczne zasiewanie wątpliwości",
+    "name_en": "Doubt",
+    "description": "Artificial undermining of trust in facts, objects, or speakers without presenting counter-evidence using uncertainty markers ('certain relays', 'allegedly does not provide'), skeptical reservations ('as he claims'), ironic quotes in headlines ('\"The military commissar defended himself\"') or indirect hints at the end of the article ('At the same time, we note that officially no one has filed suspicion'). EXCEPTION (NOT MANIPULATION): Honest journalistic recording of a lack of data ('It remains unclear what exactly the sanctions they want to lift are') and correct legal reservations ('probable intelligence officers', 'is suspected', 'according to the investigation')."
+  },
+  "slogans": {
+    "name_ru": "Слоганы и отвлеченные абстракции",
+    "name_uk": "Гасла та порожні абстракції",
+    "name_pl": "Slogany i puste abstrakcje",
+    "name_en": "Slogans",
+    "description": "The use of rhetorical slogans, flashy phrases, or high-sounding abstractions ('Justice', 'World order'), which act as emotional appeals and mask the lack of factual argumentation."
+  },
+  "whataboutism_red_herring": {
+    "name_ru": "Отвлечение внимания, подмена тезиса и домыслы",
+    "name_uk": "Відвернення уваги, підміна тези та домисли",
+    "name_pl": "Odwracanie uwagi, podmiana tezy i domysły",
+    "name_en": "Whataboutism, Straw Man, Red Herring",
+    "description": "Diverting attention from real facts, shifting the focus to counter-accusations ('what about...') and substituting the original meaning. Includes 4 main tricks: 1) 'Headline vs. Quote/Screenshot' scissors — when the headline distorts or toughens the essence of direct speech inside the article ('worth considering moving' turns into 'called to leave the city'; criticism of 'corruption in the entourage' turns into 'criticized Zelensky personally'); 2) Attributing persons or facts to the primary source in the headline that were not in the screenshot (throwing Trump's name into the headline in the absence of Trump in the original tweet in the picture); 3) 'Mind reading and between the lines' — arbitrary attribution of hidden motives ('between the lines of the statements one reads the demand...', 'this is a direct signal that he does not believe in victory', 'probably because it forces Trump...'); 4) Substitution of legal grounds (arrest due to the risk of flight in the conclusions is replaced by arrest for espionage)."
+  },
+  "flag_waving": {
+    "name_ru": "Манипуляция патриотизмом / Эксплуатация групповой принадлежности",
+    "name_uk": "Маніпуляція патріотизмом / Прикриття прапором",
+    "name_pl": "Granie na uczuciach patriotycznych / Eksploatacja przynależności grupowej",
+    "name_en": "Flag-Waving",
+    "description": "Manipulative appeal to patriotism, national pride, war, or group solidarity ('interests of the civilized world') to justify actions or accuse an opponent and block critical thinking. Example: 'While the country is fighting, another combat machine is working for him — gold and deposits... instead of developing the economy of the warring country, he helps others'."
+  },
+  "thought_terminating_cliche": {
+    "name_ru": "Штампы, блокирующие мышление (Убийца мысли)",
+    "name_uk": "Кліше, що блокують мислення (Вбивця думки)",
+    "name_pl": "Klisze blokujące myślenie",
+    "name_en": "Thought-Terminating Cliche",
+    "description": "Banal aphorisms, folk proverbs, everyday cliches, and phrases like 'as everyone knows / obviously', which are offered as a simple answer to a complex question and force the reader to stop critical analysis. Examples: 'No other way: if you live with wolves, howl like a wolf', 'However, peace thanks to weakness, as is known, does not happen'."
+  },
+  "deagentization": {
+    "name_ru": "Размытие виновника (Деагентивация)",
+    "name_uk": "Розмиття винуватця (Деагентивація)",
+    "name_pl": "Rozmycie sprawcy (Deagentywizacja)",
+    "name_en": "Deagentization (Hidden Actor)",
+    "description": "Grammatical concealment of the culprit or executor of an action (violation of the 'WHO did WHAT?' formula) through passive voice and impersonal constructions when describing attacks, shelling, and damage. Includes: 1) Passive voice without specifying the side ('Cars were attacked in the Odesa region', 'a strike was delivered', 'an arrival occurred'); 2) Personification of inanimate weapons, when the equipment acts as an independent subject without indicating whose it is ('On the night of October 8, drones attacked the oil refining complex')."
+  }
+}
